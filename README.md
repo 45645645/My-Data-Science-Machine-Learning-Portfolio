@@ -18,7 +18,7 @@ My background includes:
 A full pipeline using Python, Pandas, Scikit-learn and Isolation Forest / LOF.  
 Includes data cleaning, feature engineering, time-series analysis, and visualization.
 
-➡ GitHub folder: `anomaly-detection/`  
+➡ GitHub folder: [anomaly-detection/](./anomaly-detection)  
 ➡ Status: **In progress**
 
 ---
