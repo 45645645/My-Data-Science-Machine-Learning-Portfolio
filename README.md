@@ -27,7 +27,7 @@ Includes data cleaning, feature engineering, time-series analysis, and visualiza
 Using Laplacian, eigenvalues, and eigenvectors to cluster graph structures.  
 Includes math explanation + ML interpretation + visualization.
 
-➡ GitHub folder: `spectral-graph-clustering/`  
+➡ GitHub folder: [spectral-graph-clustering/](./spectral-graph-clustering)  
 ➡ Status: **Planned**
 
 ---
