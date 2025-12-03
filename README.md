@@ -32,15 +32,14 @@ Includes math explanation + ML interpretation + visualization.
 
 ---
 
-### ⚙️ 3. **Machine Learning Pipeline (End-to-End)**
-A standard DS/ML workflow including:
-- Data cleaning  
-- Feature engineering  
-- Modeling  
-- Evaluation  
-- Optional: FastAPI deployment  
+### ⚙️ 3. **ML Pipeline – PCA-based Recommendation System**
+An end-to-end ML workflow inspired by an AI car recommendation system:
+- Data cleaning & preprocessing  
+- PCA for dimensionality reduction  
+- kNN / similarity-based recommendation  
+- Visualization and evaluation  
 
-➡ GitHub folder: `ml-pipeline/`  
+➡ GitHub folder: [ml-pipeline/](./ml-pipeline)  
 ➡ Status: **Planned**
 
 ---
