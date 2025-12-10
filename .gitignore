@@ -1,0 +1,29 @@
+# Python venv / cache
+.venv/
+env/
+venv/
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Secrets / certs / local configs
+*.pem
+*.key
+*.crt
+*.pfx
+*.p12
+*.der
+*.jks
+*.env
+.env.*
+secrets.json
+config.local.yaml
+
+# Data outputs (如不想忽略，之後可刪這幾行)
+*.csv
+*.xlsx
+*.docx
