@@ -62,7 +62,7 @@ GitHub, Jupyter Notebook, VS Code
 
 ## 📬 Contact  
 If you’d like to collaborate or discuss projects:  
-**Email:** your_email_here  
+**Email:** goddess1022153@gmail.com  
 **GitHub:** https://github.com/45645645
 
 ---
